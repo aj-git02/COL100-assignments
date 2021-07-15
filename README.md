@@ -1,2 +1,2 @@
-# COL100-assignments and thier solutions
+# COL100-assignments and their solutions
 for posterity
